@@ -1,0 +1,19 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "Chat app with socket.io and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep041/chat_backend.git"
+  },
+  "author": "Deep Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep041/chat_backend/issues"
+  },
+  "homepage": "https://github.com/deep041/chat_backend#readme"
+}
